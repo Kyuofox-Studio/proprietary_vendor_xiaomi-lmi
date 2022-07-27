@@ -1467,6 +1467,7 @@ PRODUCT_PACKAGES += \
     libthermalclient \
     CneApp \
     IWlanService \
+    IFAAService \
     SoterService \
     TimeService \
     com.qualcomm.qti.gpudrivers.kona.api30 \
